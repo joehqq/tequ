@@ -1,0 +1,19 @@
+{
+  "name": "tequ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "jweixin-module": "^1.6.0",
+    "vue-awesome-swiper": "^4.1.1"
+  },
+  "devDependencies": {
+    "swiper": "^3.4.2"
+  }
+}
